@@ -6,3 +6,4 @@ Creating a new branch is quick.
 The first.
 The Second.
 The Third.
+Creating a new branch is quick AND simple.
